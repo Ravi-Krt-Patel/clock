@@ -86,3 +86,10 @@ body{
 	height:35%;
 	background-color:black;
 }
+
+@media(max-width:600px){
+	.clock{
+		width:70vw;
+		height:70vw;
+	}
+}
