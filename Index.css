@@ -4,7 +4,7 @@
 }
 
 body{
-	background: linear-gradient(to right, coral,rgb(231, 182, 162));
+	background: linear-gradient(to right, rgb(7, 7, 7),rgb(126, 126, 125));
 	display: flex;
 	justify-content:center;
 	align-items:center;
@@ -15,7 +15,7 @@ body{
 .clock{
 	width: 40vw;
 	height: 40vw;
-	background-color: rgba(255, 255, 255, 0.8);
+	background-color: rgba(170, 247, 98, 0.8);
 	border-radius:50%;
 	border: 2px solid black;
 	position: relative;
