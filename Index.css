@@ -86,7 +86,57 @@ body{
 	height:35%;
 	background-color:black;
 }
-
+.one{
+	transform: rotate(-25deg);
+	margin: 1vw;
+}
+.two{
+	transform: rotate(-60deg);
+	margin: 1vw;
+}
+.three{
+	transform: rotate(-85deg);
+	margin: 1vw;
+}
+.four{
+	transform: rotate(-120deg);
+	margin: 1vw;
+}
+.five{
+	transform: rotate(-155deg);
+	margin: 1vw;
+}
+.six{
+	transform: rotate(-190deg);
+	margin: 1vw;
+}
+.seven{
+	transform: rotate(150deg);
+	margin: 1vw;
+}
+.eight{
+	transform: rotate(120deg);
+	margin: 1vw;
+}
+.nine{
+	transform: rotate(85deg);
+	margin: 1vw;
+}
+.ten{
+	transform: rotate(60deg);
+	margin: 1vw;
+}
+.eve{
+	transform: rotate(25deg);
+	margin: 1vw;
+}
+.four{
+	transform: rotate(-120deg);
+	margin: 1vw;
+}
+.twel{
+	margin: 1vw;
+}
 @media(max-width:600px){
 	.clock{
 		width:70vw;
