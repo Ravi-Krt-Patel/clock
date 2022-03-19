@@ -137,6 +137,9 @@ body{
 .twel{
 	margin: 1vw;
 }
+.twel2{
+	margin: 1vw;
+}
 @media(max-width:600px){
 	.clock{
 		width:70vw;
